@@ -26,7 +26,7 @@
 
 截图如下：
 
-![image](https://github/xiayuanquan/XYQSinaTabbar/XYQSinaTabbar/XYQSinaTabbar/XYQSinaTabbar/screenshots/main.png)
+![image](https://github/xiayuanquan/XYQSinaTabbar/blob/master/XYQSinaTabbar/XYQSinaTabbar/screenshots/main.png)
      
 ![image](https://github/xiayuanquan/XYQSinaTabbar/XYQSinaTabbar/XYQSinaTabbar/screenshots/message.png)
      

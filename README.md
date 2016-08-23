@@ -25,10 +25,11 @@
 
 
 截图如下：
-![image](https://github/xiayuanquan/XYQSinaTabbar/mob/master/XYQSinaTabbar/XYQSinaTabbar/screenshots/main.png)
 
-![image](https://github/xiayuanquan/XYQSinaTabbar/mob/master/XYQSinaTabbar/XYQSinaTabbar/screenshots/message.png)
-
-![image](https://github/xiayuanquan/XYQSinaTabbar/mob/master/XYQSinaTabbar/XYQSinaTabbar/screenshots/find.png)
-
-![image](https://github/xiayuanquan/XYQSinaTabbar/mob/master/XYQSinaTabbar/XYQSinaTabbar/screenshots/me.png)
+![image](https://github/xiayuanquan/XYQSinaTabbar/blob/master/XYQSinaTabbar/XYQSinaTabbar/screenshots/main.png)
+     
+![image](https://github/xiayuanquan/XYQSinaTabbar/blob/master/XYQSinaTabbar/XYQSinaTabbar/screenshots/message.png)
+     
+![image](https://github/xiayuanquan/XYQSinaTabbar/blob/master/XYQSinaTabbar/XYQSinaTabbar/screenshots/find.png)
+     
+![image](https://github/xiayuanquan/XYQSinaTabbar/blob/master/XYQSinaTabbar/XYQSinaTabbar/screenshots/me.png)
